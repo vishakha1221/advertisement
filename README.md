@@ -39,7 +39,7 @@ Contributions are welcome!
 ---
 
 ## ✨ Author
-Developed as an **Internship Project** by [Your Name].  
+Developed as an **Internship Project** by [Vishakha Chudasama].  
 **InfiniteAI Pvt. Ltd.**  
 📍 Rajkot, Gujarat, India  
 📧 inquiry.soft@gmail.com
