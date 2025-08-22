@@ -1,30 +1,34 @@
-# Advertisement Management System
+# 👗 Cloth Rental Website
 
-This project is a simple **Advertisement Management System** developed in **PHP**.  
-It allows businesses, institutions, or individuals to display and manage advertisements related to **Smart Education** and **Healthcare**.  
+This project is a simple **Cloth Rental Management System** developed in **PHP** as part of an internship project.  
 
-The system is designed to make advertisement management more **organized, accessible, and user-friendly**, focusing on real-world applications in education and healthcare sectors.
+It allows users to browse different categories of clothes available for rent in an organized and user-friendly way.
 
 ---
 
-## 🚀 Features
-- 📢 Display advertisements for **Smart Education** and **Healthcare** services.  
-- 🔐 User-friendly **login & signup** functionality.  
-- 🗂️ Admin can manage advertisements (add, edit, delete).  
-- 📊 Organized layout for easy browsing of ads.  
-- 💻 Responsive interface built with **HTML, CSS, PHP, and MySQL**.  
-- 🔍 Search and filter ads by category.  
+## 🚀 Features (from index.php)
+- 🏠 **Homepage with Navigation Bar** (Home, About, Services, Contact)  
+- 👕 **Browse Clothes by Categories** (e.g., Party Wear, Traditional, Casual, etc.)  
+- 🔍 **Search Functionality** to quickly find clothes  
+- 📸 **Image Showcase** for available clothes  
+- 📞 **Contact Section** for user inquiries  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, Bootstrap (optional for UI)  
+- **Frontend**: HTML, CSS, Bootstrap  
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Server**: XAMPP / Apache  
 
 ---
 
+## 📂 Project Structure
+- `index.php` → Main homepage with navigation and features  
+- `assets/` → Images, CSS, and JS files  
+- `database/` → MySQL setup for clothes and categories  
+
+---
 
 ## 🤝 Contributing
 Contributions are welcome!  
@@ -38,5 +42,4 @@ Contributions are welcome!
 Developed as an **Internship Project** by [Your Name].  
 **InfiniteAI Pvt. Ltd.**  
 📍 Rajkot, Gujarat, India  
-📧 inquiry.soft@gmail.com 
-
+📧 inquiry.soft@gmail.com
